@@ -8,7 +8,7 @@ import org.springframework.boot.web.servlet.ServletComponentScan;
 import org.springframework.context.annotation.ComponentScan;
 
 
-@ComponentScan("com.tc.trialCode")
+@ComponentScan("com.tc.trialCode") 
 @SpringBootApplication
 @ServletComponentScan
 public class trialApplication {
